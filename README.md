@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I am a MSc student of **Computer Science and Engineering** at Politecnico di Milano and I am currently working on my thesis on Privacy Preserving Machine/Deep Learning.  
+I am a MSc student in **Computer Science and Engineering** at Politecnico di Milano and I am currently working on my thesis on Privacy Preserving Machine/Deep Learning.  
 Thanks to my studies, I have developed solid skills in _software design and implementation_.
 
 ---
