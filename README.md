@@ -9,7 +9,7 @@ Thanks to my studies, I have developed solid skills in _software design and impl
 * Bachelor of Science in Computer Engineering at Università Degli Studi di Pavia
 ---
 ### 📌 Projects:
-* [Sapport](): design and implementation of the **Sapport Mobile Application**
+* [Sapport](https://github.com/lucacolombo97/): design and implementation of the **Sapport Mobile Application**
 * [Space-Invaders](https://github.com/lucacolombo97/Space-Invaders): design and implementation of the **Space Invaders game** for PC
 * [Hypermedia-Monstars](https://github.com/lucacolombo97/Hypermedia-Monstars): design and implementation of an **IT company website**
 * [Italian-energy-consumption-prediction](https://github.com/lucacolombo97/Italian-energy-consumption-prediction): identification of an annual profile model for the **long-term prediction** of the Italian energy consumption **time series**
