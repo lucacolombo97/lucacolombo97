@@ -5,8 +5,8 @@ Thanks to my studies, I have developed solid skills in _software design and impl
 
 ---
 ### 🎓 Education:
-* Master of Science in Computer Science and Engineering at Politecnico di Milano
-* Bachelor of Science in Computer Engineering at Università Degli Studi di Pavia
+* Master of Science in Computer Science and Engineering at *Politecnico di Milano*
+* Bachelor of Science in Computer Engineering at *Università Degli Studi di Pavia*
 ---
 ### 📌 Projects:
 * [Sapport](https://github.com/lucacolombo97/): design and implementation of the **Sapport Mobile Application**
