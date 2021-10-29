@@ -19,7 +19,7 @@ Thanks to my studies, I have developed solid skills in _software design and impl
 * luca.colombo97@libero.it
 ---
 ### 🧒🏻 About Me:
-* ⛹️‍♂️ I love playing basketball
+* 🏀 I love playing basketball
 * ✈️ I like to travel and discover the world
 * 👔 I worked as cashier during my studies
 
