@@ -17,7 +17,8 @@ Thanks to my studies, I have developed solid skills in _software design and impl
 * [DomoHome](https://github.com/lucacolombo97/DomoHome): development of a **Home Automation System** prototype with Arduino and an Android App for remote control
 
 <details>
-  <summary>📚<b>Other accademic projects:</b></summary>
+  <summary>📚 <b>Other accademic projects:</b></summary>
+  <br>
   <ul>
     <li><a href="https://github.com/lucacolombo97/AN2DL">Artificial Neural Network and Deep Learning Project</li>
     <li><a href="https://github.com/lucacolombo97/ROS/">Robotics Project</a></li>
