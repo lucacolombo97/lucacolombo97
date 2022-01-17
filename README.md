@@ -9,7 +9,7 @@ Thanks to my studies, I have developed solid skills in _software design and impl
 * Bachelor of Science in Computer Engineering at *Università Degli Studi di Pavia*
 ---
 ### 📌 Main Projects:
-* [Sapport](https://github.com/lucacolombo97/): design and implementation of the **Sapport Mobile Application**
+* [sApport](https://github.com/lucacolombo97/): design and implementation of the **sApport Mobile Application**
 * [Space-Invaders](https://github.com/lucacolombo97/Space-Invaders): design and implementation of the **Space Invaders game** for PC
 * [Hypermedia-Monstars](https://github.com/lucacolombo97/Hypermedia-Monstars): design and implementation of an **IT company website**
 * [PythonRobotics](https://github.com/lucacolombo97/PythonRobotics): simulation of some **Robotic Navigation Algorithms** in Python as part of the github PythonRobotics project
