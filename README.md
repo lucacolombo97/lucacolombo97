@@ -1,6 +1,7 @@
 ## 👋 Hi there!
 
-I am a recent MSc graduate in **Computer Science and Engineering** at Politecnico di Milano with a thesis on Privacy Preserving Machine/Deep Learning.  
+I am a PhD Fellow in **Computer Science and Engineering** at Politecnico di Milano with expertise in Software Engineer and Machine/Deep Learning applications.
+My research activity addresses algorithms for Privacy-Preserving Machine and Deep Learning operating in a "as-a-service" manner.
 Thanks to my studies, I have developed solid skills in _software design and implementation_.
 
 ---
