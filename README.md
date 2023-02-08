@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 
 I am a PhD Fellow in **Computer Science and Engineering** at Politecnico di Milano with expertise in Software Engineer and Machine/Deep Learning applications.
-My research activity addresses the development of algorithms for _privacy-preserving Machine and Deep Learning_ operating in a "as-a-service" manner and the study of solutions in the field of _green computation_.
+My research activity addresses the development of algorithms for _privacy-preserving_ Machine and Deep Learning operating in a "as-a-service" manner and the study of solutions in the field of _green computation_.
 
 ---
 ### 🎓 Education:
