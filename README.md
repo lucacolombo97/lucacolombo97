@@ -1,10 +1,11 @@
 ## 👋 Hi there!
 
-I am a PhD Fellow in **Computer Science and Engineering** at Politecnico di Milano with expertise in Software Engineer and Machine/Deep Learning applications.
+I am a PhD in **Computer Science and Engineering** at Politecnico di Milano with expertise in Software Engineer and Machine/Deep Learning applications.
 My research activity addresses the development of algorithms for _privacy-preserving_ Machine and Deep Learning operating in a "as-a-service" manner.
 
 ---
 ### 🎓 Education:
+* PhD in Information Technology at *Politecnico di Milano*
 * Master of Science in Computer Science and Engineering at *Politecnico di Milano*
 * Bachelor of Science in Computer Engineering at *Università Degli Studi di Pavia*
 ---
