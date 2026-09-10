@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I am a PhD in **Computer Science and Engineering** at Politecnico di Milano with expertise in Software Engineer and Machine/Deep Learning applications.
+I've a PhD in **Computer Science and Engineering** at Politecnico di Milano with expertise in Software Engineer and Machine/Deep Learning applications.
 My research activity addresses the development of algorithms for _privacy-preserving_ Machine and Deep Learning operating in a "as-a-service" manner.
 
 ---
